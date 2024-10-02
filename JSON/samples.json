@@ -1,7 +1,7 @@
 [
   {
     "name": "SZA Concert Opener",
-    "file": "samples/SZA.mp3",
+    "file": "samples/SZAmp3.mp3",
     "bpm": "120",
     "loop": "1m"
   },
@@ -13,7 +13,7 @@
   },
   {
     "name": "Nicki Concert Opener",
-    "file": "samples/Nicki.mp3",
+    "file": "samples/Nickimp3.mp3",
     "bpm": "120",
     "loop": "1m"
   }
